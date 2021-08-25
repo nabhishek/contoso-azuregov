@@ -1,0 +1,9 @@
+{
+	"name": "contoso-dev",
+	"location": "usgovvirginia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23eb6aae-0c06-4e5f-992a-a1241064adb5",
+		"tenantId": "63296244-ce2c-46d8-bc36-3e558792fbee"
+	}
+}
